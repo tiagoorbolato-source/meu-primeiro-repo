@@ -36,4 +36,5 @@ Versionamento de código: nova habilidade adquirida.
 Testando branches e commits no GitHub.
 Mantendo a constância nos estudos.
 Web3 + manufatura: uma combinação única.
+Aprendendo a documentar projetos.
 
