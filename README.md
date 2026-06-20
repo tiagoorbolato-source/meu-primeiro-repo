@@ -51,5 +51,6 @@ Persistência: do torno mecânico ao terminal.
 Aprendendo, testando, comitando.
 Repositório de prática para builder quests.
 Evoluindo a cada commit.
+Mais um passo na jornada Web3.
 
 
