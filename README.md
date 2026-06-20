@@ -45,5 +45,6 @@ Conhecimento técnico não tem prazo de validade.
 Aprendendo a estrutura de um repositório Git.
 Explorando ferramentas de desenvolvimento moderno.
 Hábito de commitar todos os dias.
+Reforçando fundamentos de versionamento.
 
 
