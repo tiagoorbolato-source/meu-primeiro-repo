@@ -7,3 +7,4 @@ Aprendendo Next.js e Supabase.
 Projeto em andamento: monitoramento de produção.
 Web3 e blockchain como novo interesse.
 Explorando contratos inteligentes na Base.
+Cada commit é um passo na nova carreira.
