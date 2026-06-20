@@ -42,4 +42,5 @@ Cada dia, um pouco mais de código.
 Repositório de testes e aprendizado contínuo.
 Transição de carreira em progresso.
 Conhecimento técnico não tem prazo de validade.
+Aprendendo a estrutura de um repositório Git.
 
