@@ -35,4 +35,5 @@ Pequenos commits, grandes hábitos.
 Versionamento de código: nova habilidade adquirida.
 Testando branches e commits no GitHub.
 Mantendo a constância nos estudos.
+Web3 + manufatura: uma combinação única.
 
