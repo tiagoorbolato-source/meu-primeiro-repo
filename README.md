@@ -26,6 +26,5 @@ Aprendendo sobre cross-chain bridges.
 Construindo um portfólio técnico do zero.
 Repositório usado para fixar conceitos de Git.
 Builder journey começando aqui.
-
 Pequenos commits, grandes hábitos.
 
