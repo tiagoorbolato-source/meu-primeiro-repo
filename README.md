@@ -49,5 +49,6 @@ Reforçando fundamentos de versionamento.
 Construindo a base (literalmente) da carreira em tech.
 Persistência: do torno mecânico ao terminal.
 Aprendendo, testando, comitando.
+Repositório de prática para builder quests.
 
 
