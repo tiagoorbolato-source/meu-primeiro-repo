@@ -17,3 +17,4 @@ Migrando conhecimento técnico para software.
 Aprendendo na prática, commit por commit.
 Base Guild: construindo reputação onchain e offchain.
 Documentando o progresso de aprendizado.
+De operador de máquina a desenvolvedor.
