@@ -47,5 +47,6 @@ Explorando ferramentas de desenvolvimento moderno.
 Hábito de commitar todos os dias.
 Reforçando fundamentos de versionamento.
 Construindo a base (literalmente) da carreira em tech.
+Persistência: do torno mecânico ao terminal.
 
 
