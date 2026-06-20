@@ -23,3 +23,4 @@ Explorando o ecossistema Base.
 Cada linha de código é um tijolo novo.
 Prática leva à perfeição, no chão de fábrica e no código.
 Aprendendo sobre cross-chain bridges.
+Construindo um portfólio técnico do zero.
