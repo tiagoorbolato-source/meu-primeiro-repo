@@ -1,1 +1,1 @@
-# meu-primeiro-repo
+Aprendendo Git e GitHub na prática.
