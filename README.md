@@ -39,4 +39,5 @@ Web3 + manufatura: uma combinação única.
 Aprendendo a documentar projetos.
 Histórico público como prova de esforço.
 Cada dia, um pouco mais de código.
+Repositório de testes e aprendizado contínuo.
 
