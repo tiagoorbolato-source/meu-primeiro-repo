@@ -16,3 +16,4 @@ Hoje: Git. Ontem: centro de usinagem.
 Migrando conhecimento técnico para software.
 Aprendendo na prática, commit por commit.
 Base Guild: construindo reputação onchain e offchain.
+Documentando o progresso de aprendizado.
