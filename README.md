@@ -6,3 +6,4 @@ Vindo da manufatura, migrando para o dev.
 Aprendendo Next.js e Supabase.
 Projeto em andamento: monitoramento de produção.
 Web3 e blockchain como novo interesse.
+Explorando contratos inteligentes na Base.
