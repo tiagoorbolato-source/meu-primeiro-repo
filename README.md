@@ -21,6 +21,7 @@ Cada commit é um passo na nova carreira.
 Disciplina de fábrica aplicada ao código.
 
 Testando o fluxo de commits no GitHub.
+
 Repositório de estudos e prática.
 Consistência é a chave pra qualquer ofício.
 Hoje: Git. Ontem: centro de usinagem.
