@@ -63,4 +63,5 @@ Hardhat, Solidity e agora Git na rotina.
 Cada repositório é uma página da jornada.
 Aprendendo o significado de cada comando git.
 Testando arquivos .gitignore e configurações.
+Buscando entender CI/CD na prática.
 
