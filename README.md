@@ -54,4 +54,5 @@ Evoluindo a cada commit.
 Mais um passo na jornada Web3.
 Metade do caminho: 50 commits públicos.
 Seguindo em frente, rumo aos 100 commits.
+Aprendendo a usar branches no Git.
 
