@@ -58,4 +58,5 @@ Aprendendo a usar branches no Git.
 Testando pull requests pela primeira vez.
 Organização é tão importante no código quanto na fábrica.
 Revisando conceitos de versionamento distribuído.
+Wallets, contratos e commits: tudo parte do aprendizado.
 
