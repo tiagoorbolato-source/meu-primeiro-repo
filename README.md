@@ -25,6 +25,7 @@ Testando o fluxo de commits no GitHub.
 Repositório de estudos e prática.
 
 Consistência é a chave pra qualquer ofício.
+
 Hoje: Git. Ontem: centro de usinagem.
 Migrando conhecimento técnico para software.
 Aprendendo na prática, commit por commit.
