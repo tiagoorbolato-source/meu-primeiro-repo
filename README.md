@@ -89,4 +89,43 @@ Cada repositório é uma página da jornada.
 Aprendendo o significado de cada comando git.
 Testando arquivos .gitignore e configurações.
 Buscando entender CI/CD na prática.
+Estudando deploy contínuo com Vercel.
+Supabase e Next.js seguem no radar de estudos.
+Refletindo sobre boas práticas de commit.
+Aprendendo a escrever mensagens de commit melhores.
+Pequenos passos, repositório por repositório.
+Construindo confiança com cada novo commit.
+Hábito diário: abrir o GitHub e evoluir.
+Builder mindset aplicado ao aprendizado técnico.
+Conectando experiência prática à teoria de dev.
+Mantendo o ritmo rumo aos 100 commits.
+Aprendendo sobre forks e colaboração open source.
+Testando merge de branches.
+Repositório como diário de bordo técnico.
+Três quartos do caminho percorrido.
+Persistência todos os dias, sem pular.
+Aprendendo a documentar decisões técnicas.
+Cada commit reforça o hábito de constância.
+Buscando entender tags e releases no Git.
+Aplicando disciplina de produção ao código.
+Mais um tijolo na construção da carreira em tech.
+Revisando o que já foi aprendido até aqui.
+Pensando em próximos projetos para praticar.
+Conectando Web3 ao dia a dia de estudos.
+Builder quests como motivação extra para evoluir.
+Cada linha no README marca um progresso real.
+Aprendendo sobre boas práticas de README.
+Testando fluxos de trabalho com Git.
+Reta final rumo aos 100 commits.
+Comprometido com a jornada de transição de carreira.
+Aprendendo na prática vale mais que só teoria.
+Repositório como prova de esforço constante.
+Cada commit é um voto de confiança no futuro.
+Quase lá: faltam poucos commits.
+Solidificando o hábito de versionamento.
+Aprendendo todos os dias, um commit por vez.
+Construindo uma base sólida para novos projetos.
+Pronto para os próximos desafios técnicos.
+Último passo antes da meta dos 100.
+Missão cumprida: 100 commits públicos.
 
