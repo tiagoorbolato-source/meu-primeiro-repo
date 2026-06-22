@@ -41,6 +41,7 @@ De operador de máquina a desenvolvedor.
 Curiosidade tecnológica sem limite de idade.
 
 Explorando o ecossistema Base.
+
 Cada linha de código é um tijolo novo.
 Prática leva à perfeição, no chão de fábrica e no código.
 Aprendendo sobre cross-chain bridges.
