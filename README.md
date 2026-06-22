@@ -61,4 +61,5 @@ Revisando conceitos de versionamento distribuído.
 Wallets, contratos e commits: tudo parte do aprendizado.
 Hardhat, Solidity e agora Git na rotina.
 Cada repositório é uma página da jornada.
+Aprendendo o significado de cada comando git.
 
